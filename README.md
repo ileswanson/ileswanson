@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ileswanson
-- 👀 I’m interested in Data Science and what can give to the world
-- 🌱 I’m currently learning Python, statistics and other Data Science stuff
+- 👀 Actively seeking opportunities to apply technical expertise in Python and machine learning, to solve complex problems in data-driven environments.
 - 💞️ I’m looking to collaborate on Data Science projects and networking
 - 📫 How to reach me. By email or throug here
 
